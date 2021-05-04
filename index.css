@@ -80,7 +80,7 @@ p{
     border-bottom: 1px solid lightgrey;
 }
 
-.foot1{
+.foot{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;

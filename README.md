@@ -1,0 +1,1 @@
+This is a test project to recreate the google.com homepage using  basic HTML and CSS as part of the Odin Project
